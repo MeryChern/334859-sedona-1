@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Maryia Charniauskaya](https://up.htmlacademy.ru/htmlcss/20/user/334859).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
